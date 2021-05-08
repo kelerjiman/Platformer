@@ -1,0 +1,153 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1890111309, guid: 7668179ede524d6396c8b7d84461ea29, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  timeInFrames: 0
+  timeAreaShownRange: {x: 52.180264, y: 56.687965}
+  showAudioWaveform: 1
+  trackHeight: 30
+  trackScale: 1
+  playRangeEnabled: 0
+  timeAreaPlayRange: {x: 3.4028235e+38, y: 3.4028235e+38}
+  windowTime: 10.569237351417542
+  verticalScroll: 654
+  m_Keys:
+  - {fileID: 114054990880606080, guid: 79ddf9a5cded6674cbd16f8275cce32c, type: 2}
+  - {fileID: 114793429118553474, guid: 79ddf9a5cded6674cbd16f8275cce32c, type: 2}
+  - {fileID: 114924086329320706, guid: 79ddf9a5cded6674cbd16f8275cce32c, type: 2}
+  - {fileID: 114611496913133036, guid: 79ddf9a5cded6674cbd16f8275cce32c, type: 2}
+  - {fileID: 114385311810806346, guid: 79ddf9a5cded6674cbd16f8275cce32c, type: 2}
+  - {fileID: 114592836208538234, guid: 79ddf9a5cded6674cbd16f8275cce32c, type: 2}
+  - {fileID: 114519649759964938, guid: 79ddf9a5cded6674cbd16f8275cce32c, type: 2}
+  - {fileID: 114399058747376876, guid: 79ddf9a5cded6674cbd16f8275cce32c, type: 2}
+  - {fileID: 114542200293312290, guid: 79ddf9a5cded6674cbd16f8275cce32c, type: 2}
+  - {fileID: 114747329862184352, guid: 79ddf9a5cded6674cbd16f8275cce32c, type: 2}
+  - {fileID: 114987003076866562, guid: 79ddf9a5cded6674cbd16f8275cce32c, type: 2}
+  - {fileID: 114897575352259692, guid: 79ddf9a5cded6674cbd16f8275cce32c, type: 2}
+  - {fileID: 114967962639475532, guid: 79ddf9a5cded6674cbd16f8275cce32c, type: 2}
+  - {fileID: 114650787360639468, guid: 79ddf9a5cded6674cbd16f8275cce32c, type: 2}
+  - {fileID: 114093863900608072, guid: 79ddf9a5cded6674cbd16f8275cce32c, type: 2}
+  - {fileID: 114023639806722616, guid: 79ddf9a5cded6674cbd16f8275cce32c, type: 2}
+  - {fileID: 114381177378078626, guid: 79ddf9a5cded6674cbd16f8275cce32c, type: 2}
+  - {fileID: 114167977076188216, guid: 79ddf9a5cded6674cbd16f8275cce32c, type: 2}
+  - {fileID: 114998321043143502, guid: 79ddf9a5cded6674cbd16f8275cce32c, type: 2}
+  - {fileID: 114887362505309894, guid: 79ddf9a5cded6674cbd16f8275cce32c, type: 2}
+  - {fileID: 114643754345953144, guid: 79ddf9a5cded6674cbd16f8275cce32c, type: 2}
+  - {fileID: 114067946649798416, guid: 79ddf9a5cded6674cbd16f8275cce32c, type: 2}
+  - {fileID: 114325963432354640, guid: 79ddf9a5cded6674cbd16f8275cce32c, type: 2}
+  - {fileID: 114709092756182078, guid: 79ddf9a5cded6674cbd16f8275cce32c, type: 2}
+  - {fileID: 114878595886348574, guid: 79ddf9a5cded6674cbd16f8275cce32c, type: 2}
+  - {fileID: 114488467468941846, guid: 79ddf9a5cded6674cbd16f8275cce32c, type: 2}
+  - {fileID: 114764013560901678, guid: 79ddf9a5cded6674cbd16f8275cce32c, type: 2}
+  - {fileID: 114829244459746378, guid: 79ddf9a5cded6674cbd16f8275cce32c, type: 2}
+  - {fileID: 114202122624704364, guid: 79ddf9a5cded6674cbd16f8275cce32c, type: 2}
+  - {fileID: 114399924591298980, guid: 79ddf9a5cded6674cbd16f8275cce32c, type: 2}
+  - {fileID: 114415835911312548, guid: 79ddf9a5cded6674cbd16f8275cce32c, type: 2}
+  - {fileID: 114138000051543706, guid: 79ddf9a5cded6674cbd16f8275cce32c, type: 2}
+  m_Vals:
+  - collapsed: 0
+    showInlineCurves: 0
+    inlineAnimationCurveHeight: 100
+  - collapsed: 0
+    showInlineCurves: 0
+    inlineAnimationCurveHeight: 100
+  - collapsed: 0
+    showInlineCurves: 0
+    inlineAnimationCurveHeight: 100
+  - collapsed: 0
+    showInlineCurves: 0
+    inlineAnimationCurveHeight: 100
+  - collapsed: 0
+    showInlineCurves: 0
+    inlineAnimationCurveHeight: 100
+  - collapsed: 0
+    showInlineCurves: 0
+    inlineAnimationCurveHeight: 100
+  - collapsed: 0
+    showInlineCurves: 0
+    inlineAnimationCurveHeight: 100
+  - collapsed: 0
+    showInlineCurves: 0
+    inlineAnimationCurveHeight: 100
+  - collapsed: 0
+    showInlineCurves: 0
+    inlineAnimationCurveHeight: 100
+  - collapsed: 0
+    showInlineCurves: 0
+    inlineAnimationCurveHeight: 100
+  - collapsed: 0
+    showInlineCurves: 0
+    inlineAnimationCurveHeight: 100
+  - collapsed: 0
+    showInlineCurves: 0
+    inlineAnimationCurveHeight: 100
+  - collapsed: 0
+    showInlineCurves: 0
+    inlineAnimationCurveHeight: 100
+  - collapsed: 0
+    showInlineCurves: 0
+    inlineAnimationCurveHeight: 100
+  - collapsed: 0
+    showInlineCurves: 0
+    inlineAnimationCurveHeight: 100
+  - collapsed: 0
+    showInlineCurves: 0
+    inlineAnimationCurveHeight: 100
+  - collapsed: 0
+    showInlineCurves: 0
+    inlineAnimationCurveHeight: 100
+  - collapsed: 0
+    showInlineCurves: 0
+    inlineAnimationCurveHeight: 100
+  - collapsed: 0
+    showInlineCurves: 0
+    inlineAnimationCurveHeight: 100
+  - collapsed: 0
+    showInlineCurves: 0
+    inlineAnimationCurveHeight: 100
+  - collapsed: 0
+    showInlineCurves: 0
+    inlineAnimationCurveHeight: 100
+  - collapsed: 0
+    showInlineCurves: 0
+    inlineAnimationCurveHeight: 100
+  - collapsed: 0
+    showInlineCurves: 0
+    inlineAnimationCurveHeight: 100
+  - collapsed: 0
+    showInlineCurves: 0
+    inlineAnimationCurveHeight: 100
+  - collapsed: 0
+    showInlineCurves: 0
+    inlineAnimationCurveHeight: 100
+  - collapsed: 0
+    showInlineCurves: 0
+    inlineAnimationCurveHeight: 100
+  - collapsed: 0
+    showInlineCurves: 0
+    inlineAnimationCurveHeight: 100
+  - collapsed: 0
+    showInlineCurves: 0
+    inlineAnimationCurveHeight: 100
+  - collapsed: 0
+    showInlineCurves: 0
+    inlineAnimationCurveHeight: 100
+  - collapsed: 0
+    showInlineCurves: 0
+    inlineAnimationCurveHeight: 100
+  - collapsed: 0
+    showInlineCurves: 0
+    inlineAnimationCurveHeight: 100
+  - collapsed: 0
+    showInlineCurves: 0
+    inlineAnimationCurveHeight: 100
