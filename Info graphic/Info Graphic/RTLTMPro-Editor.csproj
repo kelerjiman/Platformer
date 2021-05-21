@@ -70,10 +70,10 @@
     <Compile Include="Assets\RTLTMPro\Scripts\Editor\RTLTextMeshProEditor.cs" />
     <None Include="Assets\RTLTMPro\Scripts\Editor\RTLTMPro-Editor.asmdef" />
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>D:/Projects/Info graphic/Info Graphic/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>D:/Projects/MehroMah_Teaser/Info graphic/Info Graphic/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>D:/Projects/Info graphic/Info Graphic/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>D:/Projects/MehroMah_Teaser/Info graphic/Info Graphic/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>C:/Program Files/Unity/Unity 2018.4.14.f1/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -310,22 +310,22 @@
       <HintPath>C:/Program Files/Unity/Unity 2018.4.14.f1/Data/PlaybackEngines/windowsstandalonesupport/UnityEditor.WindowsStandalone.Extensions.dll</HintPath>
     </Reference>
     <Reference Include="NSubstitute">
-      <HintPath>D:/Projects/Info graphic/Info Graphic/Library/PackageCache/com.unity.2d.common@1.0.11-preview.1/Tests/Editor/Lib/NSubstitute/NSubstitute.dll</HintPath>
+      <HintPath>D:/Projects/MehroMah_Teaser/Info graphic/Info Graphic/Library/PackageCache/com.unity.2d.common@1.0.11-preview.1/Tests/Editor/Lib/NSubstitute/NSubstitute.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.Advertisements">
-      <HintPath>D:/Projects/Info graphic/Info Graphic/Library/PackageCache/com.unity.ads@2.0.8/Editor/UnityEditor.Advertisements.dll</HintPath>
+      <HintPath>D:/Projects/MehroMah_Teaser/Info graphic/Info Graphic/Library/PackageCache/com.unity.ads@2.0.8/Editor/UnityEditor.Advertisements.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.Editor">
-      <HintPath>D:/Projects/Info graphic/Info Graphic/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Editor.dll</HintPath>
+      <HintPath>D:/Projects/MehroMah_Teaser/Info graphic/Info Graphic/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.StandardEvents">
-      <HintPath>D:/Projects/Info graphic/Info Graphic/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.StandardEvents.dll</HintPath>
+      <HintPath>D:/Projects/MehroMah_Teaser/Info graphic/Info Graphic/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.Tracker">
-      <HintPath>D:/Projects/Info graphic/Info Graphic/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Tracker.dll</HintPath>
+      <HintPath>D:/Projects/MehroMah_Teaser/Info graphic/Info Graphic/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Tracker.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.Purchasing">
-      <HintPath>D:/Projects/Info graphic/Info Graphic/Library/PackageCache/com.unity.purchasing@2.0.3/Editor/UnityEditor.Purchasing.dll</HintPath>
+      <HintPath>D:/Projects/MehroMah_Teaser/Info graphic/Info Graphic/Library/PackageCache/com.unity.purchasing@2.0.3/Editor/UnityEditor.Purchasing.dll</HintPath>
     </Reference>
     <Reference Include="mscorlib">
       <HintPath>C:/Program Files/Unity/Unity 2018.4.14.f1/Data/MonoBleedingEdge/lib/mono/4.7.1-api/mscorlib.dll</HintPath>
